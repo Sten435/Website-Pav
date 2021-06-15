@@ -11390,4 +11390,5 @@ section#contact form#contactForm :-ms-input-placeholder {
   width: auto;
   height: 4rem !important;
   padding: .4rem 0;
+  filter: opacity(0.83);
 }
